@@ -1,0 +1,7 @@
+{
+  "id": "formulaire-contact-sveltekit",
+  "nom": "Formulaire de contact SvelteKit",
+  "cadriciel": "sveltekit",
+  "categorie": "integration",
+  "variables": ["BREVO_API_KEY", "CONTACT_DESTINATAIRE"]
+}
